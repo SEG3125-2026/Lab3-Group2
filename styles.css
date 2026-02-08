@@ -48,5 +48,10 @@ body.high-contrast .form-text{
 #step-prefs * {
   color: #ffffff !important;
 }
+
+/* Product item text colors */
+.card-body .fw-bold {
+  color: #ffffff !important;
+}
 styles.css
 Displaying styles.css.
